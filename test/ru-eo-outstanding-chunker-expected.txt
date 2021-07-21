@@ -1,0 +1,16 @@
+[3LHZzC-J9Uu7#0] ^unknown<unknown>{^*Его$}$ ^unknown<unknown>{^*нет$}$.
+[/3LHZzC-J9Uu7]
+[9NPc753lQ-xK#0] ^unknown<unknown>{^*У$}$ ^unknown<unknown>{^*него$}$ ^unknown<unknown>{^*нет$}$ ^unknown<unknown>{^*никаких$}$ ^default<default>{^problemo<n><f><nn><pl><gen>$}$.
+[/9NPc753lQ-xK]
+[DRcm80JiAHMq#0] ^default<default>{^Tria<n><m><aa><sg><nom>$}$ ^unknown<unknown>{^*по$}$ ^default<default>{^kiomo<n><nt><nn><sg><dat>$}$ ^default<default>{^loĝanto<n><m><aa><pl><gen>$}$ ^default<default>{^urbo<n><m><nn><sg><nom>$}$ ^unknown<unknown>{^*Испании$}$.
+[/DRcm80JiAHMq]
+[NOw8oM9C00Po#0] ^default<default>{^Mi<n><nt><nn><sg><ins>$}$ ^unknown<unknown>{^*люблю$}$ ^unknown<unknown>{^*красивый$}$ ^default<default>{^floro<n><m><nn><sg><acc>$}$.
+[/NOw8oM9C00Po]
+[OMOlPF0eqrKH#0] ^unknown<unknown>{^*Нет$}$ ^default<default>{^pomo<n><nt><nn><pl><gen>$}$.
+[/OMOlPF0eqrKH]
+[Qhc1bG5l3IOy#0] ^unknown<unknown>{^*У$}$ ^unknown<unknown>{^*него$}$ ^unknown<unknown>{^*нет$}$ ^unknown<unknown>{^*кинг$}$.
+[/Qhc1bG5l3IOy]
+[pMRwK2b446-M#0] ^default<default>{^Mi<n><nt><nn><sg><ins>$}$ ^unknown<unknown>{^*люблю$}$ ^unknown<unknown>{^*красивого$}$ ^default<default>{^ulo<n><m><aa><sg><gen>$}$.
+[/pMRwK2b446-M]
+[qzvlxQDd34FC#0] ^unknown<unknown>{^*Нет$}$.
+[/qzvlxQDd34FC]

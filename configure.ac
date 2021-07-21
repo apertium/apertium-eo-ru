@@ -1,7 +1,7 @@
 AC_PREREQ(2.52)
 
 AC_INIT([Apertium Esperanto-Russian], [0.2.0], [olga-p-98@mail.ru], [apertium-epo-rus], [https://wiki.apertium.org/wiki/Apertium-epo-rus])
-AM_INIT_AUTOMAKE
+AM_INIT_AUTOMAKE([foreign])
 
 AC_PROG_LN_S
 AC_PROG_AWK
@@ -30,6 +30,9 @@ m4_ifdef([AP_CHECK_LING],[],[AC_MSG_ERROR([AP_CHECK_LING not defined, is apertiu
 
 AP_CHECK_LING([1], [apertium-epo])
 AP_CHECK_LING([2], [apertium-rus])
+
+PKG_CHECK_MODULES(REGTEST, apertium-regtest >= 0.0.1, [],
+                  [AC_MSG_WARN([Running tests requires apertium-regtest])])
 
 AP_MKINCLUDE
 

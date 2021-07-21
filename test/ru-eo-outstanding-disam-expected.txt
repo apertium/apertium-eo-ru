@@ -1,0 +1,16 @@
+[3LHZzC-J9Uu7#0] ^Его/*Его$ ^нет/*нет$.
+[/3LHZzC-J9Uu7]
+[9NPc753lQ-xK#0] ^У/*У$ ^него/*него$ ^нет/*нет$ ^никаких/*никаких$ ^проблем/проблема<n><f><nn><pl><gen>$.
+[/9NPc753lQ-xK]
+[DRcm80JiAHMq#0] ^Третий/Третий<n><m><aa><sg><nom>$ ^по/*по$ ^количеству/количество<n><nt><nn><sg><dat>$ ^жителей/житель<n><m><aa><pl><gen>$ ^город/город<n><m><nn><sg><nom>$ ^Испании/*Испании$.
+[/DRcm80JiAHMq]
+[NOw8oM9C00Po#0] ^Я/Я<n><nt><nn><sg><nom>/Я<n><nt><nn><sg><ins>/Я<n><nt><nn><pl><nom>/Я<n><nt><nn><pl><ins>$ ^люблю/*люблю$ ^красивый/*красивый$ ^цвет/цвет<n><m><nn><sg><nom>/цвет<n><m><nn><sg><acc>$.
+[/NOw8oM9C00Po]
+[OMOlPF0eqrKH#0] ^Нет/*Нет$ ^яблок/яблоко<n><nt><nn><pl><gen>$.
+[/OMOlPF0eqrKH]
+[Qhc1bG5l3IOy#0] ^У/*У$ ^него/*него$ ^нет/*нет$ ^кинг/*кинг$.
+[/Qhc1bG5l3IOy]
+[pMRwK2b446-M#0] ^Я/Я<n><nt><nn><sg><nom>/Я<n><nt><nn><sg><ins>/Я<n><nt><nn><pl><nom>/Я<n><nt><nn><pl><ins>$ ^люблю/*люблю$ ^красивого/*красивого$ ^человека/человек<n><m><aa><sg><acc>/человек<n><m><aa><sg><gen>$.
+[/pMRwK2b446-M]
+[qzvlxQDd34FC#0] ^Нет/*Нет$.
+[/qzvlxQDd34FC]
